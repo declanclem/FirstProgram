@@ -1,2 +1,3 @@
 # FirstProgram
-Test
+Declan Clements
+This is my first program
